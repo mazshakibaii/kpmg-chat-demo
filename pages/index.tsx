@@ -1,5 +1,5 @@
 import ChatBubble from "@/components/ChatBubble";
-import { Card, Center, Stack, Text, TextInput } from "@mantine/core";
+import { Card, Center, Stack, TextInput } from "@mantine/core";
 import { useForm } from "@mantine/form";
 
 export default function Chat() {
